@@ -1,5 +1,3 @@
-
-
-Start-Process "\\172.25.200.3\clickip\cleanmgr\Python312\python.exe"  -ArgumentList "\\172.25.200.3\clickip\cleanmgr\Python312\autoshutdown.py" -WindowStyle Hidden -verb RunAs 
+Start-Process "INSERT A UNC PATH OR LOCALPATH HERE TO FIND AND RUN PYTHON .EXE"  -ArgumentList "INSERT A UNC PATH OR LOCALPATH HERE TO FIND AND RUN .PY FILE" -WindowStyle Hidden -verb RunAs 
 
 exit
